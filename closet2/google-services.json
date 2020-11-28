@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1057053977523",
+    "firebase_url": "https://smartcloest1.firebaseio.com",
+    "project_id": "smartcloest1",
+    "storage_bucket": "smartcloest1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057053977523:android:6077026e7f65c008cc39c6",
+        "android_client_info": {
+          "package_name": "com.example.closet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1057053977523-6mcfodn3akifogn43rtfeqcp3h82fo91.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmLZMDPRLydCzqmdHeO1XjgFnsy-oJRHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1057053977523-6mcfodn3akifogn43rtfeqcp3h82fo91.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

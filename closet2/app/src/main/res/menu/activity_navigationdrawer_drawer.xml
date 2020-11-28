@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_home"
+            android:title="로그인여부" />
+        <item
+            android:id="@+id/nav_join"
+            android:title="회원가입" />
+        <item
+            android:id="@+id/nav_login"
+            android:title="로그인" />
+
+
+    </group>
+
+    <item android:title="옷추가">
+        <menu>
+
+            <item
+                android:id="@+id/nav_myclothes"
+                android:title="내 옷 추가하기" />
+            <item
+                android:id="@+id/nav_main"
+                android:title="메인"/>
+            <item
+                android:id="@+id/nav_myitem"
+                android:title="내 옷장"/>
+            <item
+                android:id="@+id/nav_register"
+                android:title="내 코디 등록"/>
+        </menu>
+    </item>
+
+</menu>
